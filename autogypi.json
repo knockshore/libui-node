@@ -1,6 +1,6 @@
 {
 	"dependencies": [
-		"@w8coffee/nbind"
+		"nbind"
 	],
 	"includes": []
 }

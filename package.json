@@ -1,8 +1,8 @@
-﻿{
-	"name": "libui-node",
+{
+	"name": "@w8coffee/libui-node",
 	"version": "0.2.1",
 	"description": "Node.js bindings for libui",
-	"repository": "parro-it/libui-node",
+	"repository": "knockshore/libui-node",
 	"license": "MIT",
 	"libui": "alpha3.5-master-008",
 	"contributors": [
@@ -64,8 +64,8 @@
 	"dependencies": {
 		"@mischnic/async-hooks": "^0.0.4",
 		"autogypi": "^0.2.2",
-		"@w8coffee/libui-bins": "file:../libui-bins",
-		"@w8coffee/nbind": "^0.3.14",
+		"@w8coffee/libui-bins": "^1.1.0",
+		"nbind": "https://github.com/knockshore/nbind",
 		"node-gyp": "^3.3.1"
 	}
 }
