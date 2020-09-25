@@ -1,4 +1,4 @@
-{
+﻿{
 	"name": "libui-node",
 	"version": "0.2.1",
 	"description": "Node.js bindings for libui",
@@ -43,7 +43,7 @@
 		"GUI"
 	],
 	"engines": {
-		"node": ">=4"
+		"node": ">=8"
 	},
 	"files": [
 		"list-sources.js",
@@ -64,8 +64,8 @@
 	"dependencies": {
 		"@mischnic/async-hooks": "^0.0.4",
 		"autogypi": "^0.2.2",
-		"libui-download": "^1.1.0",
-		"nbind": "^0.3.14",
+		"@w8coffee/libui-bins": "file:../libui-bins",
+		"@w8coffee/nbind": "^0.3.14",
 		"node-gyp": "^3.3.1"
 	}
 }
