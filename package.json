@@ -65,7 +65,7 @@
 		"@mischnic/async-hooks": "^0.0.4",
 		"autogypi": "^0.2.2",
 		"@w8coffee/libui-bins": "^1.1.0",
-		"nbind": "https://github.com/knockshore/nbind",
+		"@w8coffee/nbind": "^0.3.17",
 		"node-gyp": "^3.3.1"
 	}
 }
