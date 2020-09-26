@@ -1,4 +1,4 @@
-﻿{
+{
 	"name": "@w8coffee/libui-node",
 	"version": "0.2.3",
 	"description": "Node.js bindings for libui",
